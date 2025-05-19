@@ -1,0 +1,9 @@
+[submodule "nexon-gateway"]
+	path = nexon-gateway
+	url = https://github.com/LarryKwon/nexon-gateway.git
+[submodule "nexon-event"]
+	path = nexon-event
+	url = https://github.com/LarryKwon/nexon-event.git
+[submodule "nexon-auth"]
+	path = nexon-auth
+	url = https://github.com/LarryKwon/nexon-auth.git
